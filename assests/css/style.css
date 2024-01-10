@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+h1, h2, footer {
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+img.centered{
+    
+    display: block;
+    margin: auto;
+    width: 250px;
+}
